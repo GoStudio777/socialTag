@@ -1,6 +1,6 @@
 <span id = 'versionData'>data = {
   "appId" : "",
-  "version" : "1.1.1",",
+  "version" : "1.1.1",
   "sevkey" : "5GBmWt5OeBzYueneIqMJvWasNBuHM7Fb4Z4LjBdnC62dodBKdagpPsLZAdEpW6wB",
   "rapidkey" : "5GBmWt5OeBzYueneIqMJvWasNBuHM7Fb4Z4LjBdnC62dodBKdagpPsLZAdEpW6wB",
   "isadsfirst":"false",
