@@ -7,7 +7,7 @@
   "isguoqi":"false",
   "ischkfirst":"false",
   "iscommforul":"false",
-  "iscommfortime":"true",
+  "iscommfortime":"false",
   "isrua":"false",
   "ruatype":2,
   "ruakey":"133",
