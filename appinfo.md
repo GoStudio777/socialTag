@@ -1,10 +1,10 @@
 <span id = 'versionData'>data = {
   "appId" : "",
   "version" : "1.1.1",
-  "sevkey" : "AdSrgr4FxTn7O88ZiItqNYsLGxwxf7Cqv3A926fP1Ol+Sf+G0aRyWE0pgpjcicft",
+  "sevkey" : "AdSrgr4FxTn7O88ZiItqNYsLGxwxf7Cqv3A926fP1Ol+Sf+G0aRyWE0pgpjcicfttest",
   "rapidkey" : "5GBmWt5OeBzYueneIqMJvWasNBuHM7Fb4Z4LjBdnC62dodBKdagpPsLZAdEpW6wB",
   "isadsfirst":"false",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"false",
   "iscommforul":"false",
   "iscommfortime":"true",
